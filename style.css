@@ -1,92 +1,37 @@
 body {
     font-family: sans-serif;
-    font-size: 20px;
-}
 
+}
 header {
-    background-color: navy;
-    color:oldlace;
-    padding: 30px;
-    border: 2px solid green;
-    border-radius:10px
+    background-color: rgba(7, 118, 160, 1);
+    height: 101px;
+}
+header img {
+    background-color: black;
+    width: 87px;
+    height: 47px;
+    margin-left: 24px;
+    margin-top: 26px;
+}
 
-}
-header  a{
-    background-color: navy;
-    color:oldlace ;
-    text-decoration: none;
-    border: 2px solid oldlace ;
-    border-radius: 10px ;
-    padding: 5px ;
-    margin: 70px
-    
-}
-header  img{
-    background-color: rgb(231, 135, 50);    
-    border: 2px solid greenyellow ;
-    border-radius: 10px ;
-    padding: 20px;
-
-    margin: 30px
-    
-}
-nav{
-    background-color: blue;
-    border: 2px solid greenyellow ;
-    border-radius: 10px;
-    padding: 20px;
-    margin:30px;
-}
-nav a{
-    background-color: gainsboro;
-    text-decoration: none;
-    color:green;
-    margin: 50px;
-    border: 3px solid grey;
-    border-radius: 10px;
-    padding: 5px;
-    
-    
-}
-main p{
-    margin: 40px;
-}
-main a{
-    text-decoration: none;
-    border: 1px solid blue;
-    color:cadetblue
-}
-h1{
+h1 {
     text-align: center;
-    background-color: blue;
-    color:cornsilk;
-    font-size: 50px;
-    border: 10px solid green;
-    border-radius:10px
-
+    font-size: 48px;
 }
-.m{
-    background-color: gainsboro;
-    border: 5px solid black;
-    border-radius: 10px;
-    padding: 10px;
+h2 {
+    color: #FF2C00 ;
+    text-align: center;
+    font-size: 36px;
+    margin-left: 42px;
+    margin-top: 60px;
 }
 
-h2{
-    font-size: 30px;
-    color: blue;
-}
-footer {
-    background-color: burlywood;
+ul {
+    font-size: 24px;  
+    border: 2px solid blue;   
+    padding: 10px 0px 20px 40px;
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
     
-    padding: 100px;
-
-}
-footer  p {
-    background-color: white;
-    margin: 50px;
-    padding: 10px;
-    border: 2px solid greenyellow ;
-    border-radius: 10px ;
+   
     
 }
